@@ -2,7 +2,7 @@
 
 Configuration and setup files for [Mapcrafter](https://mapcrafter.org/),
 used for generating a map for the [Minecraft](https://minecraft.net/) server
-[Lompemakeriet](http://lompemakeriet.tomlin.no/maps/new/).
+[Lompemakeriet](http://minecraft.tomlin.no/maps/new/).
 
 #### Build
 - `git clone https://github.com/mapcrafter/mapcrafter.git`
